@@ -11,7 +11,7 @@
   <br />
   <br />
   
-  <img src="./readme-images/project-logo.png" />
+  <img src="project-logo.png" />
 
   <h2 align="center">Homeverse - Real estate website</h2>
 
